@@ -16,7 +16,7 @@
   <br/>
   &rarr; https://privacycafe.nl
 
-# Licence
+## Licence
 
   * Text: CC BY-SA [1].
   * Images: from wikipedia [2] and elsewhere [3].
@@ -25,9 +25,11 @@
 []: {{{1
 
   [1] Creative Commons Attribution-ShareAlike 4.0 International License
+  <br/>
   --- https://creativecommons.org/licenses/by-sa/4.0
 
-  [2] Images from Wikipedia:
+### Images from Wikipedia [2]
+
   * https://commons.wikimedia.org/wiki/File:Bits_of_Freedom.png
   * https://commons.wikimedia.org/wiki/File:EFF_Logo.svg
   * https://commons.wikimedia.org/wiki/File:Edri_logo-new.png
@@ -37,7 +39,8 @@
   * https://en.wikipedia.org/wiki/File:Free_Software_Foundation_Europe,_logo.svg
   * https://en.wikipedia.org/wiki/File:Free_Software_Foundation_logo_and_wordmark.svg
 
-  [3] Other Images:
+### Other Images [3]
+
   * https://github.com/cryptoparty/artwork/blob/master/CryptoPartyLogo.svg
   * https://privacycafe.nl/hoe-organiseer-ik-een-privacy-cafe/toolkit/
 
