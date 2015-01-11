@@ -37,6 +37,8 @@
   * https://commons.wikimedia.org/wiki/File:HTTPS_Everywhere_logo.jpg
   * https://commons.wikimedia.org/wiki/File:Mozilla_Firefox_logo_2013.svg
   * https://commons.wikimedia.org/wiki/File:Openlogo-debianV2.svg
+  * https://commons.wikimedia.org/wiki/File:Padlock-silver-medium.svg?uselang=en-gb
+  * https://commons.wikimedia.org/wiki/File:Pidgin.svg
   * https://commons.wikimedia.org/wiki/File:Tor-logo-2011-flat.svg
   * https://en.wikipedia.org/wiki/File:Free_Software_Foundation_Europe,_logo.svg
   * https://en.wikipedia.org/wiki/File:Free_Software_Foundation_logo_and_wordmark.svg
