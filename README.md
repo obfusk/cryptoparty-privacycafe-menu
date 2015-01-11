@@ -12,8 +12,9 @@
 
   cryptoparty/privacycafe menu
 
-  https://cryptoparty.in
-  https://privacycafe.nl
+  &rarr; https://cryptoparty.in
+  <br/>
+  &rarr; https://privacycafe.nl
 
 # Licence
 
