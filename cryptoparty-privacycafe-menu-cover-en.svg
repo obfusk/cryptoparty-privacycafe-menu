@@ -1332,7 +1332,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2176,7 +2176,7 @@
            height="175.68898"
            x="36.641018"
            y="69.523979" /></flowRegion><flowPara
-         id="flowPara208880"></flowPara></flowRoot>    <flowRoot
+         id="flowPara208880" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot208882"
        style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
@@ -2259,7 +2259,7 @@
          style="font-weight:normal;-inkscape-font-specification:Nimbus Sans L"
          id="flowPara210567">When you use the &quot;<flowSpan
    style="font-weight:bold;-inkscape-font-specification:Nimbus Sans L Bold"
-   id="flowSpan210571">cloud</flowSpan>&quot;, you're giving control of your data to someone else.</flowPara><flowPara
+   id="flowSpan210571">cloud</flowSpan>&quot;, you're giving control over your data to someone else.</flowPara><flowPara
          style="font-weight:normal;-inkscape-font-specification:Nimbus Sans L"
          id="flowPara210565" /><flowPara
          style="font-weight:normal;-inkscape-font-specification:Nimbus Sans L"
@@ -2418,6 +2418,6 @@
        sodipodi:linespacing="125%"
        transform="translate(0,308.26769)"><tspan
          sodipodi:role="line"
-         id="tspan210663"></tspan></text>
+         id="tspan210663" /></text>
   </g>
 </svg>

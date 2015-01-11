@@ -40,12 +40,14 @@
   * https://commons.wikimedia.org/wiki/File:Padlock-silver-medium.svg?uselang=en-gb
   * https://commons.wikimedia.org/wiki/File:Pidgin.svg
   * https://commons.wikimedia.org/wiki/File:Tor-logo-2011-flat.svg
+  * https://en.wikipedia.org/wiki/File:F-Droid_Logo_3.svg
   * https://en.wikipedia.org/wiki/File:Free_Software_Foundation_Europe,_logo.svg
   * https://en.wikipedia.org/wiki/File:Free_Software_Foundation_logo_and_wordmark.svg
   * https://en.wikipedia.org/wiki/File:Tails-logo-flat-inverted.svg
 
 ### Other Images [3]
 
+  * https://fsfe.org/campaigns/android/robot.png
   * https://github.com/cryptoparty/artwork/blob/master/CryptoPartyLogo.svg
   * https://privacycafe.nl/hoe-organiseer-ik-een-privacy-cafe/toolkit (privacy cafe logo)
   * https://s.eff.org/files/privacy-badger-latest.xpi (privacy badger logo)
