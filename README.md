@@ -34,15 +34,19 @@
   * https://commons.wikimedia.org/wiki/File:EFF_Logo.svg
   * https://commons.wikimedia.org/wiki/File:Edri_logo-new.png
   * https://commons.wikimedia.org/wiki/File:Gnupg_logo.svg
+  * https://commons.wikimedia.org/wiki/File:HTTPS_Everywhere_logo.jpg
   * https://commons.wikimedia.org/wiki/File:Mozilla_Firefox_logo_2013.svg
+  * https://commons.wikimedia.org/wiki/File:Openlogo-debianV2.svg
   * https://commons.wikimedia.org/wiki/File:Tor-logo-2011-flat.svg
   * https://en.wikipedia.org/wiki/File:Free_Software_Foundation_Europe,_logo.svg
   * https://en.wikipedia.org/wiki/File:Free_Software_Foundation_logo_and_wordmark.svg
+  * https://en.wikipedia.org/wiki/File:Tails-logo-flat-inverted.svg
 
 ### Other Images [3]
 
   * https://github.com/cryptoparty/artwork/blob/master/CryptoPartyLogo.svg
-  * https://privacycafe.nl/hoe-organiseer-ik-een-privacy-cafe/toolkit/
+  * https://privacycafe.nl/hoe-organiseer-ik-een-privacy-cafe/toolkit (privacy cafe logo)
+  * https://s.eff.org/files/privacy-badger-latest.xpi (privacy badger logo)
 
 []: }}}1
 
