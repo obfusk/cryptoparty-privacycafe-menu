@@ -2128,8 +2128,8 @@
          d="m 122.4,28.019 -36,0 0,316.799 c 0,0 36,0.001 36,0.001 m 496.8,-223.2 0,273.6 28.8,0 0,-273.6 -28.8,0 z" />
     </g>
     <image
-       y="1022.3622"
-       x="610"
+       y="1012.3622"
+       x="600"
        id="image207316"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAAAPCAYAAABzyUiPAAAABHNCSVQICAgIfAhkiAAAAsZJREFU
 WIXtlkFIFFEYx3/PwiBzFmHZLDt52lyFnS3woCALghh0MpyNtKvswVCCFi96CWVNSFDYhcBDHnK7
@@ -2150,14 +2150,14 @@ weFg/iotUBhbuIi/hxCpO0dRvX/Ab72dOtkzaK3LAAAAAElFTkSuQmCC
        width="80" />
     <text
        xml:space="preserve"
-       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
+       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
        x="370"
-       y="1012.3622"
+       y="1002.3622"
        id="text207319"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan207321"
          x="370"
-         y="1012.3622">https://github.com/obfusk/cryptoparty-privacycafe-menu</tspan></text>
+         y="1002.3622">https://github.com/obfusk/cryptoparty-privacycafe-menu</tspan></text>
   </g>
 </svg>
