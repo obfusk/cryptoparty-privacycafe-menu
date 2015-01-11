@@ -1,24 +1,45 @@
+[]: {{{1
+
+    File        : README.md
+    Maintainer  : Felix C. Stegerman <flx@obfusk.net>
+    Date        : 2015-01-11
+
+    Copyright   : Copyright (C) 2015  Felix C. Stegerman
+
+[]: }}}1
+
+## Description
+
+  cryptoparty/privacycafe menu
+
+  https://cryptoparty.in
+  https://privacycafe.nl
 
 # Licence
 
-* text: CC BY-SA [1]; images: ...
+  * Text: CC BY-SA [1].
+  * Images: from wikipedia [2] and elsewhere [3].
 
+## References
+[]: {{{1
 
-# Links
+  [1] Creative Commons Attribution-ShareAlike 4.0 International License
+  --- https://creativecommons.org/licenses/by-sa/4.0
 
-[1] Creative Commons Attribution-ShareAlike 4.0 International License
---- http://creativecommons.org/licenses/by-sa/4.0/
+  [2] Images from Wikipedia:
+  * https://commons.wikimedia.org/wiki/File:Bits_of_Freedom.png
+  * https://commons.wikimedia.org/wiki/File:EFF_Logo.svg
+  * https://commons.wikimedia.org/wiki/File:Edri_logo-new.png
+  * https://commons.wikimedia.org/wiki/File:Gnupg_logo.svg
+  * https://commons.wikimedia.org/wiki/File:Mozilla_Firefox_logo_2013.svg
+  * https://commons.wikimedia.org/wiki/File:Tor-logo-2011-flat.svg
+  * https://en.wikipedia.org/wiki/File:Free_Software_Foundation_Europe,_logo.svg
+  * https://en.wikipedia.org/wiki/File:Free_Software_Foundation_logo_and_wordmark.svg
 
-## Images
+  [3] Other Images:
+  * https://github.com/cryptoparty/artwork/blob/master/CryptoPartyLogo.svg
+  * https://privacycafe.nl/hoe-organiseer-ik-een-privacy-cafe/toolkit/
 
-https://github.com/cryptoparty/artwork/blob/master/CryptoPartyLogo.svg
-https://privacycafe.nl/hoe-organiseer-ik-een-privacy-cafe/toolkit/
+[]: }}}1
 
-https://commons.wikimedia.org/wiki/File:Tor-logo-2011-flat.svg
-https://commons.wikimedia.org/wiki/File:Gnupg_logo.svg
-
-https://en.wikipedia.org/wiki/File:Free_Software_Foundation_Europe,_logo.svg
-https://en.wikipedia.org/wiki/File:Free_Software_Foundation_logo_and_wordmark.svg
-https://commons.wikimedia.org/wiki/File:EFF_Logo.svg
-https://commons.wikimedia.org/wiki/File:Bits_of_Freedom.png
-https://commons.wikimedia.org/wiki/File:Mozilla_Firefox_logo_2013.svg
+[]: ! ( vim: set tw=70 sw=2 sts=2 et fdm=marker : )
