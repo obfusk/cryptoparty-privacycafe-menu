@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.5 r10040"
-   sodipodi:docname="cryptoparty-privacycafe-menu-inside-en.svg">
+   sodipodi:docname="cryptoparty-privacycafe-menu-inside-nl.svg">
   <defs
      id="defs4">
     <radialGradient
@@ -3622,7 +3622,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -4055,39 +4055,39 @@
     <text
        xml:space="preserve"
        style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
-       x="460.62991"
+       x="451.77167"
        y="361.4173"
        id="text162273"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="460.62991"
+         x="451.77167"
          y="361.4173"
          style="font-weight:bold;-inkscape-font-specification:Nimbus Sans L Bold"
-         id="tspan162365">Main courses</tspan></text>
+         id="tspan162365">Hoofdgerechten</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
-       x="832.67719"
+       x="814.96063"
        y="361.4173"
        id="text162273-2"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="832.67719"
+         x="814.96063"
          y="361.4173"
          style="font-weight:bold;-inkscape-font-specification:Nimbus Sans L Bold"
-         id="tspan162365-6">Desserts</tspan></text>
+         id="tspan162365-6">Nagerechten</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
-       x="132.87401"
+       x="97.440948"
        y="361.4173"
        id="text162273-7"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="132.87401"
+         x="97.440948"
          y="361.4173"
          style="font-weight:bold;-inkscape-font-specification:Nimbus Sans L Bold"
-         id="tspan162365-9">Starters</tspan></text>
+         id="tspan162365-9">Voorgerechten</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
@@ -4100,7 +4100,7 @@
          x="425.19684"
          y="396.85037"><tspan
    style="font-weight:bold;-inkscape-font-specification:Nimbus Sans L Bold"
-   id="tspan4670">Tor</tspan>: surf the Internet anonymously</tspan></text>
+   id="tspan4670">Tor</tspan>: surf anoniem op het internet</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
@@ -4137,7 +4137,7 @@
          x="425.19684"
          y="441.14169"><tspan
    style="font-weight:bold;-inkscape-font-specification:Nimbus Sans L Bold"
-   id="tspan4680">GnuPG</tspan>: encrypt your emails</tspan></text>
+   id="tspan4680">GnuPG</tspan>: versleutel uw e-mails</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:139.99999762%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
@@ -4199,7 +4199,7 @@
          x="425.19684"
          y="503.14957">OTR (&amp; Pidgin)<tspan
    style="font-weight:normal;-inkscape-font-specification:Nimbus Sans L"
-   id="tspan5165">: encrypt your chats</tspan></tspan></text>
+   id="tspan5165">: versleutel uw chatberichten</tspan></tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot5220"
@@ -4211,9 +4211,9 @@
            height="42.278095"
            x="424.65997"
            y="273.39835" /></flowRegion><flowPara
-         id="flowPara5226">Encrypt your hard disk<flowSpan
+         id="flowPara5226">Versleutel uw harde schijf<flowSpan
    style="font-weight:normal;-inkscape-font-specification:Nimbus Sans L"
-   id="flowSpan5228">: make sure your data is protected when your device is lost or stolen.</flowSpan></flowPara></flowRoot>    <text
+   id="flowSpan5228">: zorg ervoor dat uw data veilig is bij verlies of diefstal</flowSpan></flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
        x="310.03937"
@@ -4606,25 +4606,23 @@
        xml:space="preserve"
        id="flowRoot6619"
        style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
-       transform="translate(-0.3968876,262.52041)"><flowRegion
+       transform="translate(-0.39689961,262.52042)"><flowRegion
          id="flowRegion6621"><rect
            id="rect6623"
            width="238.77058"
            height="71.134575"
            x="425.59949"
            y="336.34573" /></flowRegion><flowPara
-         id="flowPara6625"
-         style="font-weight:normal;-inkscape-font-specification:Nimbus Sans L"><flowSpan
-   style="font-weight:bold;-inkscape-font-specification:Nimbus Sans L Bold"
-   id="flowSpan6627">Tails</flowSpan>: the live operating system that aims to preserve your privacy and anonymity</flowPara><flowPara
          style="font-weight:normal;-inkscape-font-specification:Nimbus Sans L"
-         id="flowPara6684">(using <flowSpan
+         id="flowPara6684"><flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Nimbus Sans L Bold"
+   id="flowSpan6627">Tails</flowSpan>: het besturingssysteem dat ernaar streeft uw privacy en anonimiteit te waarborgen (met <flowSpan
    style="font-weight:bold;-inkscape-font-specification:Nimbus Sans L Bold"
    id="flowSpan6686">Tor</flowSpan>, <flowSpan
    style="font-weight:bold;-inkscape-font-specification:Nimbus Sans L Bold"
    id="flowSpan6688">GnuPG</flowSpan>, <flowSpan
    style="font-weight:bold;-inkscape-font-specification:Nimbus Sans L Bold"
-   id="flowSpan6690">OTR</flowSpan>, etc.)</flowPara></flowRoot>    <text
+   id="flowSpan6690">OTR</flowSpan>, etc.); start van USB-stick</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
        x="664.37006"
@@ -4668,12 +4666,12 @@
            style="fill:#ffffff;fill-opacity:1"
            id="polygon3506"
            transform="matrix(0.44775907,0.89415425,-0.89415425,0.44775907,70.46318,-16.30443)"
-           points="39.407,53.262 45.366,56.241 39.076,59.22 33.117,56.241 " />
+           points="39.076,59.22 33.117,56.241 39.407,53.262 45.366,56.241 " />
         <polygon
            style="fill:#ffffff;fill-opacity:1"
            id="polygon3508"
            transform="matrix(0.44775907,0.89415425,-0.89415425,0.44775907,70.02568,-16.55443)"
-           points="22.855,50.613 29.145,47.634 35.103,50.613 28.814,53.593 " />
+           points="35.103,50.613 28.814,53.593 22.855,50.613 29.145,47.634 " />
         <g
            style="fill:#ffffff;fill-opacity:1"
            id="Captions"
@@ -4915,7 +4913,7 @@
          x="425.19684"
          y="804.33063">F-Droid<tspan
    style="font-weight:normal;-inkscape-font-specification:Nimbus Sans L"
-   id="tspan9217">: App Store with Free Software</tspan></tspan></text>
+   id="tspan9217">: App Store met Vrije Software</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
@@ -4960,7 +4958,7 @@
            y="416.20438" /></flowRegion><flowPara
          id="flowPara9247">Free Your Android<flowSpan
    style="font-weight:normal;-inkscape-font-specification:Nimbus Sans L"
-   id="flowSpan9249">: regain control of your Android device</flowSpan></flowPara></flowRoot>    <image
+   id="flowSpan9249">: herwin de contole over uw Androidapparaat</flowSpan></flowPara></flowRoot>    <image
        width="26.602379"
        height="22.83466"
        xlink:href="data:image/png;base64,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 AElFTkSuQmCC "
@@ -5011,24 +5009,24 @@
            y="535.52252" /></flowRegion><flowPara
          id="flowPara9378">The Guardian Project &amp; Open Whisper Systems<flowSpan
    style="font-weight:normal;-inkscape-font-specification:Nimbus Sans L"
-   id="flowSpan9380">: secure mobile apps (including <flowSpan
+   id="flowSpan9380">: veilige mobiele apps (inclusief <flowSpan
    style="font-weight:bold;-inkscape-font-specification:Nimbus Sans L Bold"
-   id="flowSpan9911">Tor</flowSpan>, <flowSpan
-   style="font-weight:bold;-inkscape-font-specification:Nimbus Sans L Bold"
-   id="flowSpan9913">encypted email</flowSpan> and <flowSpan
-   style="font-weight:bold;-inkscape-font-specification:Nimbus Sans L Bold"
-   id="flowSpan9915">encrypted messaging</flowSpan>)</flowSpan></flowPara></flowRoot>    <text
+   id="flowSpan9911">Tor <flowSpan
+   style="font-weight:normal;-inkscape-font-specification:Nimbus Sans L"
+   id="flowSpan16511">en</flowSpan> versleutelde e-mail <flowSpan
+   style="font-weight:normal;-inkscape-font-specification:Nimbus Sans L"
+   id="flowSpan16513">en</flowSpan> berichten</flowSpan>)</flowSpan></flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
-       x="106.29921"
+       x="97.440948"
        y="636.02356"
        id="text162273-7-09"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
-         x="106.29921"
+         x="97.440948"
          y="636.02356"
          style="font-weight:bold;-inkscape-font-specification:Nimbus Sans L Bold"
-         id="tspan162365-9-2">Security basics</tspan></text>
+         id="tspan162365-9-2">Basisveiligheid</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot9411"
@@ -5037,66 +5035,66 @@
          id="flowRegion9413"><rect
            id="rect9415"
            width="283.46167"
-           height="373.78009"
+           height="462.36276"
            x="45.096634"
            y="478.21225"
            style="text-align:start;text-anchor:start" /></flowRegion><flowPara
          id="flowPara9417"
-         style="font-weight:normal;text-align:start;text-anchor:start;-inkscape-font-specification:Nimbus Sans L">Install <flowSpan
+         style="font-weight:normal;text-align:start;text-anchor:start;-inkscape-font-specification:Nimbus Sans L">Installeer <flowSpan
    style="font-weight:bold;text-align:start;text-anchor:start;-inkscape-font-specification:Nimbus Sans L Bold"
-   id="flowSpan9423">updates</flowSpan> (automatically); <flowSpan
+   id="flowSpan9423">updates</flowSpan> (automatisch); <flowSpan
    style="font-weight:bold;-inkscape-font-specification:Nimbus Sans L Bold"
-   id="flowSpan10227">verify</flowSpan> origin and trustworthyness of software.</flowPara><flowPara
+   id="flowSpan16306">verifieer</flowSpan> bron en betrouwbaarheid van software.</flowPara><flowPara
          style="font-weight:normal;text-align:start;text-anchor:start;-inkscape-font-specification:Nimbus Sans L"
          id="flowPara9427" /><flowPara
          style="font-weight:normal;text-align:start;text-anchor:start;-inkscape-font-specification:Nimbus Sans L"
-         id="flowPara11134">Use a <flowSpan
+         id="flowPara9917">Gebruik een <flowSpan
    style="font-weight:bold;text-align:start;text-anchor:start;-inkscape-font-specification:Nimbus Sans L Bold"
-   id="flowSpan9431">firewall</flowSpan> and <flowSpan
-   style="font-weight:bold;text-align:start;text-anchor:start;-inkscape-font-specification:Nimbus Sans L Bold"
-   id="flowSpan9433">virus scanner</flowSpan> (if applicable); make sure you don't have e.g. file sharing enabled when connected to public (or someone else's) Wi-Fi.</flowPara><flowPara
+   id="flowSpan9431">firewall <flowSpan
+   style="font-weight:normal;-inkscape-font-specification:Nimbus Sans L"
+   id="flowSpan16308">en</flowSpan> virusscanner</flowSpan> (indien van toepassing); zorg ervoor dat u niet bijvoorbeeld buitens-huis nog het delen van bestanden aan hebt staat.</flowPara><flowPara
          style="font-weight:normal;text-align:start;text-anchor:start;-inkscape-font-specification:Nimbus Sans L"
-         id="flowPara9917" /><flowPara
+         id="flowPara16316" /><flowPara
          style="font-weight:normal;text-align:start;text-anchor:start;-inkscape-font-specification:Nimbus Sans L"
-         id="flowPara10182">Automatically <flowSpan
+         id="flowPara16318"><flowSpan
    style="font-weight:bold;-inkscape-font-specification:Nimbus Sans L Bold"
-   id="flowSpan10186">lock</flowSpan> the screen with password or PIN.</flowPara><flowPara
+   id="flowSpan16323">Vergrendel</flowSpan> het scherm automatisch met wachtwoord of PIN.</flowPara><flowPara
          style="font-weight:normal;text-align:start;text-anchor:start;-inkscape-font-specification:Nimbus Sans L"
          id="flowPara10184" /><flowPara
          style="font-weight:normal;text-align:start;text-anchor:start;-inkscape-font-specification:Nimbus Sans L"
-         id="flowPara9919">Use strong <flowSpan
-   style="font-weight:bold;text-align:start;text-anchor:start;-inkscape-font-specification:Nimbus Sans L Bold"
-   id="flowSpan9921">passwords </flowSpan>(e.g. sentences of at least 4 random words); use separate passwords for separate (categories of) accounts; use a password manager if you don't want to remember them all. Be careful with <flowSpan
-   style="font-weight:bold;text-align:start;text-anchor:start;-inkscape-font-specification:Nimbus Sans L Bold"
-   id="flowSpan9933">security questions</flowSpan>: make sure the answers are actually secret.</flowPara><flowPara
+         id="flowPara16325">Gebruik sterke <flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Nimbus Sans L Bold"
+   id="flowSpan16329">wachtwoorden</flowSpan> (zoals zinnen van minstens 4 willekeurige woorden), aparte wachtwoorden, en eventueel een wachtwoordbeheerder. Pas op met <flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Nimbus Sans L Bold"
+   id="flowSpan16425">veiligheidsvragen</flowSpan>: zijn de antwoorden echt geheim?!</flowPara><flowPara
+         style="font-weight:normal;text-align:start;text-anchor:start;-inkscape-font-specification:Nimbus Sans L"
+         id="flowPara16327" /><flowPara
+         style="font-weight:normal;text-align:start;text-anchor:start;-inkscape-font-specification:Nimbus Sans L"
+         id="flowPara16337">Bescherm uw <flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Nimbus Sans L Bold"
+   id="flowSpan16339">primaire e-mailadres</flowSpan>: het geeft vaak toegang tot veel andere accounts.</flowPara><flowPara
          style="font-weight:normal;text-align:start;text-anchor:start;-inkscape-font-specification:Nimbus Sans L"
          id="flowPara9929" /><flowPara
          style="font-weight:normal;text-align:start;text-anchor:start;-inkscape-font-specification:Nimbus Sans L"
-         id="flowPara9925">Protect you <flowSpan
-   style="font-weight:bold;text-align:start;text-anchor:start;-inkscape-font-specification:Nimbus Sans L Bold"
-   id="flowSpan9937">primary email address</flowSpan>: it often provides access to many other accounts. </flowPara><flowPara
-         style="font-weight:normal;text-align:start;text-anchor:start;-inkscape-font-specification:Nimbus Sans L"
-         id="flowPara9927" /><flowPara
-         style="font-weight:normal;text-align:start;text-anchor:start;-inkscape-font-specification:Nimbus Sans L"
-         id="flowPara9941">Ensure <flowSpan
-   style="font-weight:bold;text-align:start;text-anchor:start;-inkscape-font-specification:Nimbus Sans L Bold"
-   id="flowSpan10099">physical security</flowSpan> of computers and devices.</flowPara><flowPara
+         id="flowPara16346">Zorg voor <flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Nimbus Sans L Bold"
+   id="flowSpan16348">fysieke veiligheid</flowSpan> van apparaten.</flowPara><flowPara
          style="font-weight:normal;text-align:start;text-anchor:start;-inkscape-font-specification:Nimbus Sans L"
          id="flowPara9945" /><flowPara
          style="font-weight:normal;text-align:start;text-anchor:start;-inkscape-font-specification:Nimbus Sans L"
-         id="flowPara9947">Make <flowSpan
-   style="font-weight:bold;text-align:start;text-anchor:start;-inkscape-font-specification:Nimbus Sans L Bold"
-   id="flowSpan9949">backups</flowSpan> (encrypted if necessary). But be careful with (automatic) cloud backups: you may lose <flowSpan
+         id="flowPara16354">Maak <flowSpan
    style="font-weight:bold;-inkscape-font-specification:Nimbus Sans L Bold"
-   id="flowSpan10229">control over your data</flowSpan> unintentionally.</flowPara><flowPara
+   id="flowSpan16360">backups</flowSpan> (versleuteld indien nodig). Maar pas op met (automatische) cloudbackups: u verliest mogelijk </flowPara><flowPara
+         style="font-weight:normal;text-align:start;text-anchor:start;-inkscape-font-specification:Nimbus Sans L"
+         id="flowPara16369">onbedoeld <flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Nimbus Sans L Bold"
+   id="flowSpan16358">controle over uw data</flowSpan>.</flowPara><flowPara
          style="font-weight:normal;text-align:start;text-anchor:start;-inkscape-font-specification:Nimbus Sans L"
          id="flowPara10011" /><flowPara
          style="font-weight:normal;text-align:start;text-anchor:start;-inkscape-font-specification:Nimbus Sans L"
-         id="flowPara10172">Use <flowSpan
-   style="font-weight:bold;text-align:start;text-anchor:start;-inkscape-font-specification:Nimbus Sans L Bold"
-   id="flowSpan10015">encrypted connections</flowSpan> for web (HTTPS) and email</flowPara><flowPara
-         style="font-weight:normal;text-align:start;text-anchor:start;-inkscape-font-specification:Nimbus Sans L"
-         id="flowPara10273"> (SSL/TLS/STARTTLS).</flowPara></flowRoot>    <flowRoot
+         id="flowPara16404">Gebruik <flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Nimbus Sans L Bold"
+   id="flowSpan16446">versleutelde verbindingen</flowSpan> voor web (HTTPS) en e-mail (SSL/TLS/STARTTLS).</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot9435"
        style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Nimbus Sans L;font-style:normal;font-weight:bold;font-size:11px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Sans Bold;font-stretch:normal;font-variant:normal"><flowRegion
@@ -5117,9 +5115,9 @@
            height="42.278095"
            x="424.65997"
            y="273.39835" /></flowRegion><flowPara
-         id="flowPara5226-7">Encrypt your device<flowSpan
+         id="flowPara5226-7">Versleutel uw apparaat<flowSpan
    style="font-weight:normal;-inkscape-font-specification:Nimbus Sans L"
-   id="flowSpan5228-9">: make sure your data is protected when it's lost or stolen.</flowSpan></flowPara></flowRoot>    <g
+   id="flowSpan5228-9">: zorg ervoor dat uw data veilig is bij verlies of diefstal</flowSpan></flowPara></flowRoot>    <g
        transform="matrix(0.20924357,0,0,0.20924357,398.38891,923.44087)"
        id="g6124-1">
       <g
@@ -5352,7 +5350,7 @@
          id="flowPara9981"
          style="font-weight:normal;-inkscape-font-specification:Nimbus Sans L"><flowSpan
    style="font-weight:bold;-inkscape-font-specification:Nimbus Sans L Bold"
-   id="flowSpan9983">Firefox</flowSpan>: a Free web browser without spyware (though you may want to disable the ads in the new tab page)</flowPara></flowRoot>    <text
+   id="flowSpan9983">Firefox</flowSpan>: een vrije webbrowser zonder spyware (al wilt u de advertenties in de &quot;new tab page&quot; misschien uitzetten)</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
        x="310.03937"
@@ -5377,7 +5375,7 @@
          y="449.99997"
          style="font-weight:normal;-inkscape-font-specification:Nimbus Sans L"><tspan
    style="font-weight:bold;-inkscape-font-specification:Nimbus Sans L Bold"
-   id="tspan9993">Privacy Badger</tspan>: block tracking (cookies)</tspan></text>
+   id="tspan9993">Privacy Badger</tspan>: blokkeer tracking (cookies)</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
@@ -5404,7 +5402,7 @@
          id="flowPara10007"
          style="font-weight:normal;-inkscape-font-specification:Nimbus Sans L"><flowSpan
    style="font-weight:bold;-inkscape-font-specification:Nimbus Sans L Bold"
-   id="flowSpan10009">HTTPS Everywhere</flowSpan>: automatically use HTTPS more often</flowPara></flowRoot>    <text
+   id="flowSpan10009">HTTPS Everywhere</flowSpan>: gebruik automatisch vaker HTTPS</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
        x="72.342522"
@@ -5448,7 +5446,7 @@
          id="flowPara10035"
          style="font-weight:normal;-inkscape-font-specification:Nimbus Sans L"><flowSpan
    style="font-weight:bold;-inkscape-font-specification:Nimbus Sans L Bold"
-   id="flowSpan10037">Startpage &amp; DuckDuckGo</flowSpan>: search the web with (more) privacy</flowPara></flowRoot>    <text
+   id="flowSpan10037">Startpage &amp; DuckDuckGo</flowSpan>: zoekmachines met (meer) privacy</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
        x="-80.798141"
@@ -5472,7 +5470,7 @@
          id="flowPara10217"
          style="font-weight:normal;-inkscape-font-specification:Nimbus Sans L"><flowSpan
    style="font-weight:bold;-inkscape-font-specification:Nimbus Sans L Bold"
-   id="flowSpan10219">Check the privacy settings</flowSpan>: like location data and backups.</flowPara></flowRoot>    <text
+   id="flowSpan10219">Controleer de privacyinstellingen</flowSpan>: zoals lokatiegegevens en backups.</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
        x="-160.65675"
@@ -5505,14 +5503,12 @@
            height="46.010952"
            x="770.40088"
            y="105.22548" /></flowRegion><flowPara
-         id="flowPara10285"
-         style="font-weight:normal;-inkscape-font-specification:Nimbus Sans L">Use a Free operating system like <flowSpan
-   style="font-weight:bold;-inkscape-font-specification:Nimbus Sans L Bold"
-   id="flowSpan10287">Debian</flowSpan></flowPara><flowPara
          style="font-weight:normal;-inkscape-font-specification:Nimbus Sans L"
-         id="flowPara10325">(or other <flowSpan
+         id="flowPara10325">Gebruik een vrij besturingssysteem zoals <flowSpan
    style="font-weight:bold;-inkscape-font-specification:Nimbus Sans L Bold"
-   id="flowSpan10289">GNU/Linux</flowSpan> distibution).</flowPara></flowRoot>    <text
+   id="flowSpan10287">Debian </flowSpan>(of een andere <flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Nimbus Sans L Bold"
+   id="flowSpan10289">GNU/Linux </flowSpan>distibutie).</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
        x="1009.8425"
@@ -5537,7 +5533,7 @@
          id="flowPara10301"
          style="font-weight:normal;-inkscape-font-specification:Nimbus Sans L"><flowSpan
    style="font-weight:bold;-inkscape-font-specification:Nimbus Sans L Bold"
-   id="flowSpan10303">PRISM Break</flowSpan>: Privacy-aware recommendations to proprietary software (&amp; services)</flowPara></flowRoot>    <text
+   id="flowSpan10303">PRISM Break</flowSpan>: Privacybewuste alternatieven voor onvrije software (&amp; diensten)</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
        x="1009.8425"
@@ -5565,7 +5561,7 @@
    style="font-weight:bold;-inkscape-font-specification:Nimbus Sans L Bold"
    id="flowSpan10317">Terms of Service; Didn't Read</flowSpan> (<flowSpan
    style="font-weight:bold;-inkscape-font-specification:Nimbus Sans L Bold"
-   id="flowSpan10319">ToS;DR</flowSpan>): analyzed and graded terms of service and privacy policies</flowPara></flowRoot>    <text
+   id="flowSpan10319">ToS;DR</flowSpan>): geanalyseerde en beoordeelde algemene voor-waarden en privacybeleid</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
        x="1009.8425"
@@ -5668,15 +5664,15 @@
            y="319.43451"
            style="font-weight:normal;-inkscape-font-specification:Nimbus Sans L" /></flowRegion><flowPara
          style="font-weight:normal;-inkscape-font-specification:Nimbus Sans L"
-         id="flowPara10514">Feel free to visit a <flowSpan
+         id="flowPara16557">Bezoek ook eens een <flowSpan
    style="font-weight:bold;-inkscape-font-specification:Nimbus Sans L Bold"
-   id="flowSpan10518">hackerspace <flowSpan
-   style="font-weight:normal;-inkscape-font-specification:Nimbus Sans L"
-   id="flowSpan13310">or</flowSpan> Linux user group near you</flowSpan>; the people there are more than happy to talk to you about important topics like privacy. You can also find help online by subscribing to <flowSpan
+   id="flowSpan16555">hackerspace</flowSpan> of <flowSpan
    style="font-weight:bold;-inkscape-font-specification:Nimbus Sans L Bold"
-   id="flowSpan10520">mailing lists</flowSpan> or visiting <flowSpan
+   id="flowSpan10518">Linux gebruikers-groep bij u in de buurt</flowSpan>; de mensen daar spreken graag met u over belangrijke zaken als privacy. U kunt ook online hulp vinden door u te abonneren op <flowSpan
    style="font-weight:bold;-inkscape-font-specification:Nimbus Sans L Bold"
-   id="flowSpan10522">Internet forums</flowSpan> dedicated to specific projects or more generic topics.</flowPara></flowRoot>    <rect
+   id="flowSpan16561">mailinglijsten</flowSpan> of een bezoek te brengen aan <flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Nimbus Sans L Bold"
+   id="flowSpan16563">internetfora</flowSpan> over specifieke projecten of meer algemene onderwerpen.</flowPara></flowRoot>    <rect
        style="fill:none;stroke:#000000;stroke-width:3.54330707;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect162271-4-0-6-3"
        width="301.18109"
@@ -5695,9 +5691,9 @@
            height="42.278095"
            x="424.65997"
            y="273.39835" /></flowRegion><flowPara
-         id="flowPara5226-7-7">Encrypt your device<flowSpan
+         id="flowPara5226-7-7">Versleutel uw apparaat<flowSpan
    style="font-weight:normal;-inkscape-font-specification:Nimbus Sans L"
-   id="flowSpan5228-9-0">: make sure your data is protected when it's lost or stolen.</flowSpan></flowPara></flowRoot>    <flowRoot
+   id="flowSpan16534">: zorg ervoor dat uw data veilig is bij verlies of diefstal</flowSpan></flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot10211-4"
        style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
@@ -5711,7 +5707,7 @@
          id="flowPara10217-5"
          style="font-weight:normal;-inkscape-font-specification:Nimbus Sans L"><flowSpan
    style="font-weight:bold;-inkscape-font-specification:Nimbus Sans L Bold"
-   id="flowSpan10219-7">Check the privacy settings</flowSpan>: like location data and backups.</flowPara></flowRoot>    <g
+   id="flowSpan16536">Controleer de privacyinstellingen</flowSpan>: zoals lokatiegegevens en backups.</flowPara></flowRoot>    <g
        transform="matrix(0.20924357,0,0,0.20924357,744.21955,666.07942)"
        id="g6124-1-8">
       <g
@@ -5918,7 +5914,7 @@
          y="768.89758"
          style="font-weight:normal;-inkscape-font-specification:Nimbus Sans L"><tspan
    style="font-weight:bold;-inkscape-font-specification:Nimbus Sans L Bold"
-   id="tspan11052">ChatSecure</tspan>: OTR-encrypted text messaging</tspan></text>
+   id="tspan11052">ChatSecure</tspan>: OTR-versleutelde tekstberichten</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
@@ -5941,17 +5937,17 @@
        xml:space="preserve"
        id="flowRoot11076"
        style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
-       transform="translate(-2.2950295,324.53642)"><flowRegion
+       transform="translate(-2.2950295,315.67815)"><flowRegion
          id="flowRegion11078"><rect
            id="rect11080"
-           width="281.85397"
-           height="48.854687"
+           width="283.47794"
+           height="63.724087"
            x="737.51788"
            y="646.38513" /></flowRegion><flowPara
-         id="flowPara11082"
-         style="font-weight:normal;-inkscape-font-specification:Nimbus Sans L"><flowSpan
+         style="font-weight:normal;-inkscape-font-specification:Nimbus Sans L"
+         id="flowPara16575"><flowSpan
    style="font-weight:bold;-inkscape-font-specification:Nimbus Sans L Bold"
-   id="flowSpan11084">NB</flowSpan>: Even using the software recommended here, your privacy may be compromised; e.g. by non-free operating systems like Windows, OS X, iOS, and stock Android.</flowPara></flowRoot>    <rect
+   id="flowSpan11084">NB</flowSpan>: Zelfs bij gebruik van de hier aangeraden software kan uw privacy aangetast worden; bijvoorbeeld door onvrije besturingssystemen als Windows, OS X, iOS en standaard Android.</flowPara></flowRoot>    <rect
        style="fill:none;stroke:#000000;stroke-width:3.54330707;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect162271-4-0-6-3-9"
        width="301.18109"
