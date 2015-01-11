@@ -2203,7 +2203,9 @@
    style="font-weight:normal;-inkscape-font-specification:Nimbus Sans L"
    id="flowSpan210473">as</flowSpan> 100% secure<flowSpan
    style="font-weight:normal;-inkscape-font-specification:Nimbus Sans L"
-   id="flowSpan210390"> and there is always a </flowSpan>weakest link. </flowSpan></flowPara><flowPara
+   id="flowSpan11651">, there are <flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Nimbus Sans L Bold"
+   id="flowSpan11656">no guarantees</flowSpan>, and there is always a </flowSpan>weakest link.  </flowSpan></flowPara><flowPara
          style="font-weight:normal;-inkscape-font-specification:Nimbus Sans L"
          id="flowPara210438" /><flowPara
          style="font-weight:normal;-inkscape-font-specification:Nimbus Sans L"
@@ -2341,7 +2343,7 @@
          y="972.63776">no cloud</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
        x="159.44882"
        y="839.76373"
        id="text210577"
@@ -2350,31 +2352,36 @@
          id="tspan210579"
          x="159.44882"
          y="839.76373">https://toolbox.bof.nl<tspan
-   style="font-weight:normal;-inkscape-font-specification:Nimbus Sans L"
+   style="font-weight:normal;text-align:start;text-anchor:start;-inkscape-font-specification:Nimbus Sans L"
    id="tspan210581"> (dutch)</tspan></tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
        x="159.44882"
-       y="822.04724"
+       y="804.33069"
        id="text210583"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan210585"
          x="159.44882"
-         y="822.04724">https://ssd.eff.org</tspan></text>
+         y="804.33069">https://ssd.eff.org</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
-       x="132.87401"
-       y="804.33069"
+       style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold;text-anchor:end;text-align:end"
+       x="146.06348"
+       y="813.18896"
        id="text210587"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan210589"
-         x="132.87401"
-         y="804.33069"
-         style="font-size:16px">See also</tspan></text>
+         x="115.15748"
+         y="813.18896"
+         style="font-size:16px;text-anchor:end;text-align:end">See</tspan><tspan
+         sodipodi:role="line"
+         x="115.15748"
+         y="833.18896"
+         style="font-size:16px;text-anchor:end;text-align:end"
+         id="tspan12739">also</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
@@ -2419,5 +2426,16 @@
        transform="translate(0,308.26769)"><tspan
          sodipodi:role="line"
          id="tspan210663" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
+       x="159.44882"
+       y="822.04724"
+       id="text12735"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan12737"
+         x="159.44882"
+         y="822.04724">https://securityinabox.org</tspan></text>
   </g>
 </svg>
