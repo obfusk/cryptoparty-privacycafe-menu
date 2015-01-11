@@ -1663,7 +1663,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
        x="880"
        y="382.36218"
        id="text3718"
@@ -1696,7 +1696,8 @@
          sodipodi:role="line"
          id="tspan3738"
          x="830"
-         y="1022.3622">https://cryptoparty.in</tspan><tspan
+         y="1022.3622"
+         style="font-weight:normal;-inkscape-font-specification:Nimbus Sans L">https://cryptoparty.in</tspan><tspan
          sodipodi:role="line"
          x="830"
          y="1047.3622"
@@ -1711,7 +1712,8 @@
          sodipodi:role="line"
          id="tspan3744"
          x="830"
-         y="992.36218">https://privacycafe.nl</tspan></text>
+         y="992.36218"
+         style="font-weight:normal;-inkscape-font-specification:Nimbus Sans L">https://privacycafe.nl</tspan></text>
     <g
        id="g4565">
       <text
@@ -1741,29 +1743,10 @@
          style="fill:none;stroke:#000000;stroke-width:10.62992126;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
     </g>
     <g
-       transform="matrix(0.08002712,0,0,0.08002712,211.83363,520.98717)"
-       id="g158138">
-      <path
-         inkscape:connector-curvature="0"
-         style="fill:#b11107"
-         id="path1"
-         d="m 751.955,11.813 c 0.858,0.429 -1.074,10.305 -61.406,12.452 -3.657,0.128 -39.54,2.537 -43.37,2.577 -39.721,0.429 -86.741,6.871 -120.234,14.814 -39.748,9.427 -86.097,24.047 -111.862,40.795 -10.608,6.896 -28.287,19.497 -32.85,31.776 -6.226,16.747 11.38,31.131 22.544,32.85 16.613,2.556 36.52,-0.457 53.462,-2.577 10.306,-1.289 25.859,-4.63 34.997,-5.368 7.944,-0.644 14.357,0.161 22.544,1.503 14.385,2.363 30.918,14.6 36.929,28.341 6.38,14.587 4.482,30.663 -1.717,44.015 -5.583,12.023 -18.774,23.737 -31.132,32.205 -11.595,7.945 -28.656,15.728 -42.942,21.901 -31.776,13.741 -66.558,23.188 -100.2,33.922 -13.451,4.295 -45.799,11.811 -72.852,17.177 -17.061,3.382 -35.016,6.563 -51.958,9.019 -29.63,4.293 -60.171,7.862 -89.532,10.735 -15.198,1.476 -39.741,3.583 -39.976,-3.529 0,0 -36,10.397 -36,10.397 0.523,6.229 17.434,10.192 41.059,9.787 93.625,-1.528 395.861,-13.043 462.493,-102.548 7.139,-9.619 14.599,-32.969 14.848,-58.438 l -28.8,-64.8 c -17.973,-13.735 -46.426,-26.926 -94.708,-13.152 -24.295,6.938 -73.839,27.522 -82.607,18.164 -8.274,-8.824 -1.404,-22.652 62.237,-52.355 16.09,-7.488 78.354,-33.655 189.343,-44.135 l 1.664,-0.034 C 721.815,33.275 747.507,31.214 761.858,26.659 766.474,25.196 781.423,16.89 780.1,9.718 779.531,6.483 772.332,2.142 765.768,3.223 749.485,5.792 741.533,5.283 626.165,4.424 598.91,4.229 595.448,3.478 528.635,4.336 468.102,5.081 398.068,11.152 338.4,42.419 c 0,0 -55.781,36.128 -55.781,36.128 -13.521,14.406 -24.807,31.716 -28.846,48.704 -4.039,16.988 -0.201,3.322 -0.201,3.322 0,0 34.428,59.848 34.428,59.848 1.074,0 6.722,1.906 12.001,4.32 7.818,3.57 20.336,7.677 28.771,9.448 12.238,2.577 24.906,6.442 34.353,1.932 5.038,-2.4 15.888,-12.452 15.244,-18.463 -0.711,-6.623 -12.01,-8.475 -18.894,-9.877 -11.594,-2.362 -29.69,-1.141 -44.444,-3.435 -16.25,-2.517 -29.353,-8.401 -35.212,-21.685 -5.435,-12.339 -1.502,-27.054 6.657,-39.935 7.185,-11.353 15.209,-20.632 25.764,-28.986 20.611,-16.318 46.867,-30.192 73.215,-41.223 27.696,-11.594 61.19,-21.685 93.61,-24.691 32.085,-2.972 66.559,-3.865 99.409,-3.006 27.751,0.725 78.367,0 83.09,0.43 4.724,0.429 88.746,-4.254 90.391,-3.435" />
-      <path
-         inkscape:connector-curvature="0"
-         style="fill:#b11107"
-         id="path2"
-         d="M 264.00001,128.819 0,128.819 l 0,64.8 c 0,0 300.00001,0 300.00001,0 m 44,-151.2 -272.00001,0 0,36 c 0,0 240.00001,0.128 240.00001,0.128 m 248,50.272 0,64.8 c 0,0 332.79999,0 332.79999,0 l 0,-64.8 -332.79999,0 z M 604.8,244.02 l 252,0 0,36 -252,0 0,-36 z" />
-      <path
-         inkscape:connector-curvature="0"
-         style="fill:#b11107"
-         id="path3"
-         d="m 122.4,28.019 -36,0 0,316.799 c 0,0 36,0.001 36,0.001 m 496.8,-223.2 0,273.6 28.8,0 0,-273.6 -28.8,0 z" />
-    </g>
-    <g
-       transform="matrix(0.14690204,0,0,0.14690204,200.70852,478.70029)"
+       transform="matrix(0.14690204,0,0,0.14690204,392.26877,603.72708)"
        id="layer1-1">
       <g
-         transform="translate(59.317567,219.99072)"
+         transform="translate(1313.7045,179.87475)"
          id="g2868"
          style="fill:none">
         <g
@@ -1884,5 +1867,144 @@
        y="692.36218"
        inkscape:transform-center-x="50"
        inkscape:transform-center-y="5.2031705" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3.54330707;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect162271"
+       width="320"
+       height="390"
+       x="370"
+       y="332.36218"
+       ry="32.499996" />
+    <text
+       xml:space="preserve"
+       style="font-size:22px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+       x="400"
+       y="362.36218"
+       id="text162273"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="400"
+         y="362.36218"
+         style="font-weight:bold;-inkscape-font-specification:Nimbus Sans L Bold"
+         id="tspan162365">Free Software</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
+       x="480"
+       y="382.36218"
+       id="text162369"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="480"
+         y="382.36218"
+         id="tspan162373"
+         style="font-size:13px">Who controls your computer?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+       x="392.71652"
+       y="140.92699"
+       id="text162381"
+       sodipodi:linespacing="125%"
+       transform="translate(0,308.26769)"><tspan
+         sodipodi:role="line"
+         x="392.71652"
+         y="140.92699"
+         id="tspan162403" /></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot162539"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
+       transform="matrix(1.0356282,0,0,1,-29.62332,263.05881)"><flowRegion
+         id="flowRegion162541"><rect
+           id="rect162543"
+           width="289.67545"
+           height="390.59006"
+           x="395.53506"
+           y="128.71332"
+           style="font-weight:normal;-inkscape-font-specification:Nimbus Sans L" /></flowRegion><flowPara
+         style="font-weight:normal;-inkscape-font-specification:Nimbus Sans L"
+         id="flowPara162836">Free Software is software that anyone can <flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Nimbus Sans L Bold"
+   id="flowSpan162709">use</flowSpan>, <flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Nimbus Sans L Bold"
+   id="flowSpan162711">study</flowSpan>, <flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Nimbus Sans L Bold"
+   id="flowSpan162713">share</flowSpan> and <flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Nimbus Sans L Bold"
+   id="flowSpan162715">improve</flowSpan> freely. Most Free Software is gratis, but Free Software is not about price: it's about <flowSpan
+   style="font-weight:bold;-inkscape-font-specification:Nimbus Sans L Bold"
+   id="flowSpan162782">liberty</flowSpan>.</flowPara><flowPara
+         style="font-weight:normal;-inkscape-font-specification:Nimbus Sans L"
+         id="flowPara162663" /><flowPara
+         style="font-weight:normal;-inkscape-font-specification:Nimbus Sans L"
+         id="flowPara162665">When you don't control a program, the program controls you. Whoever controls the software therefore controls you.</flowPara><flowPara
+         style="font-weight:normal;-inkscape-font-specification:Nimbus Sans L"
+         id="flowPara162667" /><flowPara
+         style="font-weight:normal;-inkscape-font-specification:Nimbus Sans L"
+         id="flowPara162869">Non-free software often leaks your data or hides other malicious features; no one is allowed to study how it works and what it actually does on your computer or phone.</flowPara><flowPara
+         style="font-weight:normal;-inkscape-font-specification:Nimbus Sans L"
+         id="flowPara162861" /><flowPara
+         style="font-weight:normal;-inkscape-font-specification:Nimbus Sans L"
+         id="flowPara162863">Using exclusively Free Software on your computer or device puts you in full control and allows you to safeguard your privacy. Even though you may not have the skills to exercise each of the four freedoms yourself, you will benefit from the knowledge and expertise of vibrant communities.</flowPara><flowPara
+         style="font-weight:normal;-inkscape-font-specification:Nimbus Sans L"
+         id="flowPara162788" /><flowPara
+         style="font-weight:normal;-inkscape-font-specification:Nimbus Sans L"
+         id="flowPara162790">Organisations like the Free Software Foundation Europe (FSFE), are dedicated to promoting Free Software and working to build a free digital society where technology empowers us, instead of opressing us.</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
+       x="494.18396"
+       y="487.60736"
+       id="text162629"
+       sodipodi:linespacing="125%"
+       transform="translate(0,308.26769)"><tspan
+         sodipodi:role="line"
+         id="tspan162631"
+         x="494.18396"
+         y="487.60736" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
+       x="410.56729"
+       y="458.48245"
+       id="text162784"
+       sodipodi:linespacing="125%"
+       transform="translate(0,308.26769)"><tspan
+         sodipodi:role="line"
+         id="tspan162786"></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
+       x="390"
+       y="702.36218"
+       id="text162800"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="390"
+         y="702.36218"
+         id="tspan162804">https://fsfe.org</tspan><tspan
+         sodipodi:role="line"
+         x="390"
+         y="716.11218"
+         id="tspan162808" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
+       x="490"
+       y="702.36218"
+       id="text162810"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan162812"
+         x="490"
+         y="702.36218">https://fsf.org</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3.54330707;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect162881"
+       width="320"
+       height="290"
+       x="370"
+       y="742.36218"
+       ry="31.416662" />
   </g>
 </svg>
