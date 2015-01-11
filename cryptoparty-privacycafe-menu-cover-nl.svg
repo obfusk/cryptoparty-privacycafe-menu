@@ -1334,7 +1334,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2049,7 +2049,7 @@
          style="font-size:10.80913067px;font-weight:normal;-inkscape-font-specification:Nimbus Sans L"
          id="flowPara162663" /><flowPara
          style="font-size:10.80913067px;font-weight:normal;-inkscape-font-specification:Nimbus Sans L"
-         id="flowPara162667">Niet-vrije software lekt vaak uw data of verbergt andere kwaadaardige functies; het is niet toegestaan de werking ervan te bestuderen en er achter te komen wat het daadwerkelijk doet op uw computer of telefoon.</flowPara><flowPara
+         id="flowPara162667">Onvrije software lekt vaak uw data of verbergt andere kwaadaardige functies; het is niet toegestaan de werking ervan te bestuderen en er achter te komen wat het daadwerkelijk doet op uw computer of telefoon.</flowPara><flowPara
          style="font-size:10.80913067px;font-weight:normal;-inkscape-font-specification:Nimbus Sans L"
          id="flowPara8670" /><flowPara
          style="font-size:10.80913067px;font-weight:normal;-inkscape-font-specification:Nimbus Sans L"
@@ -2428,5 +2428,5 @@
            height="118.37867"
            x="-183.20508"
            y="340.10379" /></flowRegion><flowPara
-         id="flowPara13548"></flowPara></flowRoot>  </g>
+         id="flowPara13548" /></flowRoot>  </g>
 </svg>
