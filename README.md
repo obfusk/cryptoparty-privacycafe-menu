@@ -2,7 +2,7 @@
 
     File        : README.md
     Maintainer  : Felix C. Stegerman <flx@obfusk.net>
-    Date        : 2015-01-11
+    Date        : 2015-01-24
 
     Copyright   : Copyright (C) 2015  Felix C. Stegerman
 
@@ -20,6 +20,15 @@
 
   * Text: CC BY-SA [1].
   * Images: from wikipedia [2] and elsewhere [3].
+
+## Notes
+
+  * To create web.svg, convert flowRoots to text.
+
+```
+pdftk cryptoparty-privacycafe-menu-{cover,inside}-en.pdf cat output cryptoparty-privacycafe-menu-combined-en.pdf
+pdftk cryptoparty-privacycafe-menu-{cover,inside}-nl.pdf cat output cryptoparty-privacycafe-menu-combined-nl.pdf
+```
 
 ## References
 []: {{{1
