@@ -25,11 +25,6 @@
 
   * To create web.svg, convert flowRoots to text.
 
-```
-pdftk cryptoparty-privacycafe-menu-{cover,inside}-en.pdf cat output cryptoparty-privacycafe-menu-combined-en.pdf
-pdftk cryptoparty-privacycafe-menu-{cover,inside}-nl.pdf cat output cryptoparty-privacycafe-menu-combined-nl.pdf
-```
-
 ## References
 []: {{{1
 
