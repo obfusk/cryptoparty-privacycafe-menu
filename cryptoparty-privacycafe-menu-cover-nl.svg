@@ -1856,39 +1856,51 @@
          y="830.90546"
          style="font-weight:bold;-inkscape-font-specification:Nimbus Sans L Bold"
          id="tspan162365-4">Digitale burgerrechten</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
-       x="593.50391"
-       y="919.48816"
-       id="text162939"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan162941"
+    <a
+       id="a11923"
+       xlink:href="https://eff.org">
+      <text
+         sodipodi:linespacing="125%"
+         id="text162939"
+         y="919.48816"
          x="593.50391"
-         y="919.48816">https://eff.org</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
-       x="593.50391"
-       y="954.9212"
-       id="text162943"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan162945"
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
+         xml:space="preserve"><tspan
+           y="919.48816"
+           x="593.50391"
+           id="tspan162941"
+           sodipodi:role="line">https://eff.org</tspan></text>
+    </a>
+    <a
+       id="a11931"
+       xlink:href="https://bof.nl">
+      <text
+         sodipodi:linespacing="125%"
+         id="text162943"
+         y="954.9212"
          x="593.50391"
-         y="954.9212">https://bof.nl</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:10.99999332px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
-       x="593.50391"
-       y="937.20471"
-       id="text162947"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan162949"
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
+         xml:space="preserve"><tspan
+           y="954.9212"
+           x="593.50391"
+           id="tspan162945"
+           sodipodi:role="line">https://bof.nl</tspan></text>
+    </a>
+    <a
+       id="a11927"
+       xlink:href="https://edri.org">
+      <text
+         sodipodi:linespacing="125%"
+         id="text162947"
+         y="937.20471"
          x="593.50391"
-         y="937.20471">https://edri.org</tspan></text>
+         style="font-size:10.99999332px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
+         xml:space="preserve"><tspan
+           y="937.20471"
+           x="593.50391"
+           id="tspan162949"
+           sodipodi:role="line">https://edri.org</tspan></text>
+    </a>
     <image
        width="80"
        height="55.997292"
@@ -2044,32 +2056,40 @@
          style="font-size:10.80913067px;font-weight:normal;-inkscape-font-specification:Nimbus Sans L"
          id="flowPara8670" /><flowPara
          style="font-size:10.80913067px;font-weight:normal;-inkscape-font-specification:Nimbus Sans L"
-         id="flowPara162790">Het gebruik van uitsluitend Vrije Software op uw computers of andere apparaten geeft u de volledige controle en maakt het u mogelijk uw privacy te waarborgen. Zelfs als u niet over de vaardigheden beschikt om zelf gebruik te maken van alle vier vrijheden, profiteert u van de expertise van levendige gemeenschappen.</flowPara></flowRoot>    <text
-       xml:space="preserve"
-       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
-       x="584.64569"
-       y="768.89758"
-       id="text162800"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         x="584.64569"
+         id="flowPara162790">Het gebruik van uitsluitend Vrije Software op uw computers of andere apparaten geeft u de volledige controle en maakt het u mogelijk uw privacy te waarborgen. Zelfs als u niet over de vaardigheden beschikt om zelf gebruik te maken van alle vier vrijheden, profiteert u van de expertise van levendige gemeenschappen.</flowPara></flowRoot>    <a
+       id="a11918"
+       xlink:href="https://fsfe.org">
+      <text
+         sodipodi:linespacing="125%"
+         id="text162800"
          y="768.89758"
-         id="tspan162804">https://fsfe.org</tspan><tspan
-         sodipodi:role="line"
          x="584.64569"
-         y="782.64758"
-         id="tspan162808" /></text>
-    <text
-       xml:space="preserve"
-       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
-       x="584.64569"
-       y="751.18109"
-       id="text162810"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan162812"
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
+         xml:space="preserve"><tspan
+           id="tspan162804"
+           y="768.89758"
+           x="584.64569"
+           sodipodi:role="line">https://fsfe.org</tspan><tspan
+           id="tspan162808"
+           y="782.64758"
+           x="584.64569"
+           sodipodi:role="line" /></text>
+    </a>
+    <a
+       id="a11914"
+       xlink:href="https://fsf.org">
+      <text
+         sodipodi:linespacing="125%"
+         id="text162810"
+         y="751.18109"
          x="584.64569"
-         y="751.18109">https://fsf.org</tspan></text>
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
+         xml:space="preserve"><tspan
+           y="751.18109"
+           x="584.64569"
+           id="tspan162812"
+           sodipodi:role="line">https://fsf.org</tspan></text>
+    </a>
     <flowRoot
        xml:space="preserve"
        id="flowRoot177659"
@@ -2320,28 +2340,36 @@
          id="tspan210247"
          x="177.16536"
          y="972.63776">geen cloud</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
-       x="44.29134"
-       y="892.91333"
-       id="text210577"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan210579"
+    <a
+       id="a11910"
+       xlink:href="https://toolbox.bof.nl">
+      <text
+         sodipodi:linespacing="125%"
+         id="text210577"
+         y="892.91333"
          x="44.29134"
-         y="892.91333">https://toolbox.bof.nl</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
-       x="44.29134"
-       y="857.48029"
-       id="text210583"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan210585"
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
+         xml:space="preserve"><tspan
+           y="892.91333"
+           x="44.29134"
+           id="tspan210579"
+           sodipodi:role="line">https://toolbox.bof.nl</tspan></text>
+    </a>
+    <a
+       id="a11902"
+       xlink:href="https://ssd.eff.org">
+      <text
+         sodipodi:linespacing="125%"
+         id="text210583"
+         y="857.48029"
          x="44.29134"
-         y="857.48029">https://ssd.eff.org</tspan></text>
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
+         xml:space="preserve"><tspan
+           y="857.48029"
+           x="44.29134"
+           id="tspan210585"
+           sodipodi:role="line">https://ssd.eff.org</tspan></text>
+    </a>
     <text
        xml:space="preserve"
        style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
@@ -2398,17 +2426,21 @@
        transform="translate(0,308.26769)"><tspan
          sodipodi:role="line"
          id="tspan210663" /></text>
-    <text
-       xml:space="preserve"
-       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
-       x="44.29134"
-       y="875.19684"
-       id="text12735"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan12737"
+    <a
+       id="a11906"
+       xlink:href="https://securityinabox.org">
+      <text
+         sodipodi:linespacing="125%"
+         id="text12735"
+         y="875.19684"
          x="44.29134"
-         y="875.19684">https://securityinabox.org</tspan></text>
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
+         xml:space="preserve"><tspan
+           y="875.19684"
+           x="44.29134"
+           id="tspan12737"
+           sodipodi:role="line">https://securityinabox.org</tspan></text>
+    </a>
     <flowRoot
        xml:space="preserve"
        id="flowRoot13542"
