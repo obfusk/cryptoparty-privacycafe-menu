@@ -23,7 +23,8 @@
 
 ## Notes
 
-  * To create web.svg, convert flowRoots to text.
+  * To create web.svg, convert flowRoots to text + remove unused ones
+    w/ XML editor.
 
 ## References
 []: {{{1
