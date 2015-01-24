@@ -2140,17 +2140,21 @@
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAAAPCAYAAABzyUiPAAAABHNCSVQICAgIfAhkiAAAAsZJREFU WIXtlkFIFFEYx3/PwiBzFmHZLDt52lyFnS3woCALghh0MpyNtKvswVCCFi96CWVNSFDYhcBDHnK7 JhUYiYUHF8HVdcqbsIiaeNkxg4SYDstOyzqjm626xP7hwfDN9/7v+/7zf/OeAHSKODEuAuh6UcOT QAiREhDg/cd3hxI+zX5m6OkQ4XCYrq4uSyJFUZibm2Nk9Bl2hx2Aqms3aGluYWtz6xRKP3+kTVdi lbC7s8vEi4ljxQOIRCI0NTUxNjpuxLQ9jcCTQJ7KLVxYChh59ZrKyspjxUujv7+f6EKUt29STt77 ruFt9tL5sDM/lRYoLAWMLkTx+/0AqKqKLMsIIVAUBU3TUBQFIQSyLKOqKi6Xi/b2dlbjqwaHKBF4 vd5D3LquGyMzlp1zFKw4zvp/birgF/UrO992qKurA6Cjo4P6+np0Xcfj8RAKhZifnyeZTBIIBEgk EgB4PB7UVdXg0fY03G636cJCCIQQRsOZz7quI4SwLDr9Pj2yY2cpoqmAP/b3AbDZbGiaRiwWQ5Zl AAKBAOvr6zidTiRJwufz0draaswV/Gn84OAn4oK5EGm3ZAqVbj4zZua0dJ6ZawvCgZfLygBIJpNI koTb7WZpaQlInbgVFRWsra2haRrBYJCpqSljbmYDpaWX0H+ZN5SrW7KddtR8s7zThqmANa6bOBwO 4vE4AIODg0xPTyOEoLq6mr6+PhoaGrDZbMzMzNDY2AjA4uIizhqnwSOVS8RiMdOFzRyYKzJdedaC ZUOk6tEP3QPHno+zkdhgeXk5JyJVVamtraW7p5s7d1Nb+vrVKkaGR5h8OZnvus8d6Y9neQrff+Bj e3uTcDicE+HAwAC3bsuGeOVXJGY/zP6X4mXCUkC7w0537yP8fj+hUOhIkrZ7baysrNDzuNeISeUS weFg/iotUBhbuIi/hxCpO0dRvX/Ab72dOtkzaK3LAAAAAElFTkSuQmCC "
        height="15"
        width="80" />
-    <text
-       xml:space="preserve"
-       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
-       x="363.18896"
-       y="999.21259"
-       id="text207319"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan207321"
+    <a
+       id="a10349"
+       xlink:href="https://github.com/obfusk/cryptoparty-privacycafe-menu">
+      <text
+         sodipodi:linespacing="125%"
+         id="text207319"
+         y="999.21259"
          x="363.18896"
-         y="999.21259">https://github.com/obfusk/cryptoparty-privacycafe-menu</tspan></text>
+         style="font-size:9px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
+         xml:space="preserve"><tspan
+           y="999.21259"
+           x="363.18896"
+           id="tspan207321"
+           sodipodi:role="line">https://github.com/obfusk/cryptoparty-privacycafe-menu</tspan></text>
+    </a>
     <rect
        style="fill:none;stroke:#000000;stroke-width:3.54330754;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect162271-4"

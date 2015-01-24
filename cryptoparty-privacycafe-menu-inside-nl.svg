@@ -3622,7 +3622,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -4101,19 +4101,23 @@
          y="396.85037"><tspan
    style="font-weight:bold;-inkscape-font-specification:Nimbus Sans L Bold"
    id="tspan4670">Tor</tspan>: surf anoniem op het internet</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
-       x="664.37006"
-       y="414.56693"
-       id="text4666"
-       sodipodi:linespacing="125%"
-       inkscape:transform-center-x="-17.457922"
-       inkscape:transform-center-y="-5.2085"><tspan
-         sodipodi:role="line"
-         id="tspan4668"
+    <a
+       id="a14336"
+       xlink:href="https://torproject.org">
+      <text
+         inkscape:transform-center-y="-5.2085"
+         inkscape:transform-center-x="-17.457922"
+         sodipodi:linespacing="125%"
+         id="text4666"
+         y="414.56693"
          x="664.37006"
-         y="414.56693">https://torproject.org</tspan></text>
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
+         xml:space="preserve"><tspan
+           y="414.56693"
+           x="664.37006"
+           id="tspan4668"
+           sodipodi:role="line">https://torproject.org</tspan></text>
+    </a>
     <text
        xml:space="preserve"
        style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Nimbus Sans L"
@@ -4138,22 +4142,22 @@
          y="441.14169"><tspan
    style="font-weight:bold;-inkscape-font-specification:Nimbus Sans L Bold"
    id="tspan4680">GnuPG</tspan>: versleutel uw e-mails</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:139.99999762%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
-       x="664.37006"
-       y="458.85822"
-       id="text4682"
-       sodipodi:linespacing="140%"><tspan
-         sodipodi:role="line"
-         id="tspan4684"
+    <a
+       id="a14348"
+       xlink:href="https://emailselfdefense.fsf.org">
+      <text
+         sodipodi:linespacing="140%"
+         id="text4682"
+         y="458.85822"
          x="664.37006"
-         y="458.85822">https://emailselfdefense.fsf.org</tspan><tspan
-         sodipodi:role="line"
-         x="664.37006"
-         y="474.25821"
-         id="tspan4706"
-         style="font-size:11px;line-height:139.99999762%">https://gnupg.org</tspan></text>
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:139.99999762%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
+         xml:space="preserve"><tspan
+           style="font-size:11px;line-height:139.99999762%"
+           id="tspan4706"
+           y="458.85822"
+           x="664.37006"
+           sodipodi:role="line">https://emailselfdefense.fsf.org</tspan></text>
+    </a>
     <text
        xml:space="preserve"
        style="font-size:9px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
@@ -4213,45 +4217,53 @@
            y="273.39835" /></flowRegion><flowPara
          id="flowPara5226">Versleutel uw harde schijf<flowSpan
    style="font-weight:normal;-inkscape-font-specification:Nimbus Sans L"
-   id="flowSpan5228">: zorg ervoor dat uw data veilig is bij verlies of diefstal</flowSpan></flowPara></flowRoot>    <text
-       xml:space="preserve"
-       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
-       x="310.03937"
-       y="467.71649"
-       id="text5230"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan5232"
+   id="flowSpan5228">: zorg ervoor dat uw data veilig is bij verlies of diefstal</flowSpan></flowPara></flowRoot>    <a
+       id="a14313"
+       xlink:href="https://eff.org/privacybadger">
+      <text
+         sodipodi:linespacing="125%"
+         id="text5230"
+         y="467.71649"
          x="310.03937"
-         y="467.71649">https://eff.org/privacybadger</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
-       x="310.03937"
-       y="512.00781"
-       id="text5234"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan5236"
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
+         xml:space="preserve"><tspan
+           y="467.71649"
+           x="310.03937"
+           id="tspan5232"
+           sodipodi:role="line">https://eff.org/privacybadger</tspan></text>
+    </a>
+    <a
+       id="a14317"
+       xlink:href="https://eff.org/https-everywhere">
+      <text
+         sodipodi:linespacing="125%"
+         id="text5234"
+         y="512.00781"
          x="310.03937"
-         y="512.00781">https://eff.org/https-everywhere</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
-       x="664.37006"
-       y="520.86615"
-       id="text5238"
-       sodipodi:linespacing="125%"
-       inkscape:transform-center-x="14.377136"
-       inkscape:transform-center-y="319.44256"><tspan
-         sodipodi:role="line"
-         id="tspan5240"
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
+         xml:space="preserve"><tspan
+           y="512.00781"
+           x="310.03937"
+           id="tspan5236"
+           sodipodi:role="line">https://eff.org/https-everywhere</tspan></text>
+    </a>
+    <a
+       id="a14369"
+       xlink:href="https://pidgin.im">
+      <text
+         inkscape:transform-center-y="319.44256"
+         inkscape:transform-center-x="14.377136"
+         sodipodi:linespacing="125%"
+         id="text5238"
+         y="520.86615"
          x="664.37006"
-         y="520.86615">https://pidgin.im</tspan><tspan
-         sodipodi:role="line"
-         x="664.37006"
-         y="534.61615"
-         id="tspan5912">+ https://otr.cypherpunks.ca</tspan></text>
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
+         xml:space="preserve"><tspan
+           id="tspan5912"
+           y="520.86615"
+           x="664.37006"
+           sodipodi:role="line">https://pidgin.im</tspan></text>
+    </a>
     <g
        transform="matrix(0.49184413,0,0,0.49184413,396.85113,483.52825)"
        id="g5570">
@@ -4622,17 +4634,21 @@
    style="font-weight:bold;-inkscape-font-specification:Nimbus Sans L Bold"
    id="flowSpan6688">GnuPG</flowSpan>, <flowSpan
    style="font-weight:bold;-inkscape-font-specification:Nimbus Sans L Bold"
-   id="flowSpan6690">OTR</flowSpan>, etc.); start van USB-stick</flowPara></flowRoot>    <text
-       xml:space="preserve"
-       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
-       x="664.37006"
-       y="662.59845"
-       id="text6629"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan6631"
+   id="flowSpan6690">OTR</flowSpan>, etc.); start van USB-stick</flowPara></flowRoot>    <a
+       id="a14377"
+       xlink:href="https://tails.boum.org">
+      <text
+         sodipodi:linespacing="125%"
+         id="text6629"
+         y="662.59845"
          x="664.37006"
-         y="662.59845">https://tails.boum.org</tspan></text>
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
+         xml:space="preserve"><tspan
+           y="662.59845"
+           x="664.37006"
+           id="tspan6631"
+           sodipodi:role="line">https://tails.boum.org</tspan></text>
+    </a>
     <g
        id="g208106"
        transform="matrix(0.17787159,0,0,0.17787159,334.20389,486.76267)">
@@ -4879,28 +4895,36 @@
          style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.38792658;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          sodipodi:type="arc" />
     </g>
-    <text
-       xml:space="preserve"
-       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
-       x="664.37006"
-       y="777.7558"
-       id="text9205"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan9207"
+    <a
+       id="a14381"
+       xlink:href="https://freeyourandroid.org">
+      <text
+         sodipodi:linespacing="125%"
+         id="text9205"
+         y="777.7558"
          x="664.37006"
-         y="777.7558">https://freeyourandroid.org</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
-       x="664.37006"
-       y="822.04718"
-       id="text9209"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan9211"
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
+         xml:space="preserve"><tspan
+           y="777.7558"
+           x="664.37006"
+           id="tspan9207"
+           sodipodi:role="line">https://freeyourandroid.org</tspan></text>
+    </a>
+    <a
+       id="a14385"
+       xlink:href="https://f-droid.org">
+      <text
+         sodipodi:linespacing="125%"
+         id="text9209"
+         y="822.04718"
          x="664.37006"
-         y="822.04718">https://f-droid.org</tspan></text>
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
+         xml:space="preserve"><tspan
+           y="822.04718"
+           x="664.37006"
+           id="tspan9211"
+           sodipodi:role="line">https://f-droid.org</tspan></text>
+    </a>
     <text
        xml:space="preserve"
        style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
@@ -4965,21 +4989,21 @@
        id="image9329"
        x="396.82281"
        y="731.88971" />
-    <text
-       xml:space="preserve"
-       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
-       x="664.37006"
-       y="901.77161"
-       id="text9356"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan9358"
+    <a
+       id="a14395"
+       xlink:href="https://guardianproject.info/apps">
+      <text
+         sodipodi:linespacing="125%"
+         id="text9356"
+         y="901.77161"
          x="664.37006"
-         y="901.77161">https://guardianproject.info/apps</tspan><tspan
-         sodipodi:role="line"
-         x="664.37006"
-         y="915.52161"
-         id="tspan13312">https://whispersystems.org</tspan></text>
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
+         xml:space="preserve"><tspan
+           id="tspan13312"
+           y="901.77161"
+           x="664.37006"
+           sodipodi:role="line">https://guardianproject.info/apps</tspan></text>
+    </a>
     <text
        xml:space="preserve"
        style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
@@ -5350,18 +5374,22 @@
          id="flowPara9981"
          style="font-weight:normal;-inkscape-font-specification:Nimbus Sans L"><flowSpan
    style="font-weight:bold;-inkscape-font-specification:Nimbus Sans L Bold"
-   id="flowSpan9983">Firefox</flowSpan>: een vrije webbrowser zonder spyware (al wilt u de advertenties in de &quot;new tab page&quot; misschien uitzetten)</flowPara></flowRoot>    <text
-       xml:space="preserve"
-       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
-       x="310.03937"
-       y="423.42517"
-       id="text9985"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan9987"
-         x="310.03937"
+   id="flowSpan9983">Firefox</flowSpan>: een vrije webbrowser zonder spyware (al wilt u de advertenties in de &quot;new tab page&quot; misschien uitzetten)</flowPara></flowRoot>    <a
+       id="a14309"
+       xlink:href="https://mozilla.org/firefox">
+      <text
+         sodipodi:linespacing="125%"
+         id="text9985"
          y="423.42517"
-         style="text-align:end;text-anchor:end">https://mozilla.org/firefox</tspan></text>
+         x="310.03937"
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
+         xml:space="preserve"><tspan
+           style="text-align:end;text-anchor:end"
+           y="423.42517"
+           x="310.03937"
+           id="tspan9987"
+           sodipodi:role="line">https://mozilla.org/firefox</tspan></text>
+    </a>
     <text
        xml:space="preserve"
        style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
@@ -5415,23 +5443,22 @@
          x="72.342522"
          y="253.66856"
          style="font-style:normal;font-weight:normal;-inkscape-font-specification:Nimbus Sans L" /></text>
-    <text
-       xml:space="preserve"
-       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
-       x="310.03937"
-       y="556.29919"
-       id="text10023"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan10025"
-         x="310.03937"
+    <a
+       id="a14321"
+       xlink:href="https://startpage.com">
+      <text
+         sodipodi:linespacing="125%"
+         id="text10023"
          y="556.29919"
-         style="text-align:end;text-anchor:end">https://startpage.com</tspan><tspan
-         sodipodi:role="line"
          x="310.03937"
-         y="570.04919"
-         id="tspan10027"
-         style="text-align:end;text-anchor:end">https://duckduckgo.com</tspan></text>
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
+         xml:space="preserve"><tspan
+           style="text-align:end;text-anchor:end"
+           id="tspan10027"
+           y="556.29919"
+           x="310.03937"
+           sodipodi:role="line">https://startpage.com</tspan></text>
+    </a>
     <flowRoot
        xml:space="preserve"
        id="flowRoot10029"
@@ -5508,17 +5535,21 @@
    style="font-weight:bold;-inkscape-font-specification:Nimbus Sans L Bold"
    id="flowSpan10287">Debian </flowSpan>(of een andere <flowSpan
    style="font-weight:bold;-inkscape-font-specification:Nimbus Sans L Bold"
-   id="flowSpan10289">GNU/Linux </flowSpan>distibutie).</flowPara></flowRoot>    <text
-       xml:space="preserve"
-       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
-       x="1009.8425"
-       y="494.29132"
-       id="text10291"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan10293"
+   id="flowSpan10289">GNU/Linux </flowSpan>distibutie).</flowPara></flowRoot>    <a
+       id="a14407"
+       xlink:href="https://prism-break.org">
+      <text
+         sodipodi:linespacing="125%"
+         id="text10291"
+         y="494.29132"
          x="1009.8425"
-         y="494.29132">https://prism-break.org</tspan></text>
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
+         xml:space="preserve"><tspan
+           y="494.29132"
+           x="1009.8425"
+           id="tspan10293"
+           sodipodi:role="line">https://prism-break.org</tspan></text>
+    </a>
     <flowRoot
        xml:space="preserve"
        id="flowRoot10295"
@@ -5533,18 +5564,22 @@
          id="flowPara10301"
          style="font-weight:normal;-inkscape-font-specification:Nimbus Sans L"><flowSpan
    style="font-weight:bold;-inkscape-font-specification:Nimbus Sans L Bold"
-   id="flowSpan10303">PRISM Break</flowSpan>: Privacybewuste alternatieven voor onvrije software (&amp; diensten)</flowPara></flowRoot>    <text
-       xml:space="preserve"
-       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
-       x="1009.8425"
-       y="432.28345"
-       id="text10305"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan10307"
-         x="1009.8425"
+   id="flowSpan10303">PRISM Break</flowSpan>: Privacybewuste alternatieven voor onvrije software (&amp; diensten)</flowPara></flowRoot>    <a
+       id="a14403"
+       xlink:href="https://debian.org">
+      <text
+         sodipodi:linespacing="125%"
+         id="text10305"
          y="432.28345"
-         style="text-align:end;text-anchor:end">https://debian.org</tspan></text>
+         x="1009.8425"
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
+         xml:space="preserve"><tspan
+           style="text-align:end;text-anchor:end"
+           y="432.28345"
+           x="1009.8425"
+           id="tspan10307"
+           sodipodi:role="line">https://debian.org</tspan></text>
+    </a>
     <flowRoot
        xml:space="preserve"
        id="flowRoot10309"
@@ -5561,18 +5596,22 @@
    style="font-weight:bold;-inkscape-font-specification:Nimbus Sans L Bold"
    id="flowSpan10317">Terms of Service; Didn't Read</flowSpan> (<flowSpan
    style="font-weight:bold;-inkscape-font-specification:Nimbus Sans L Bold"
-   id="flowSpan10319">ToS;DR</flowSpan>): geanalyseerde en beoordeelde algemene voor-waarden en privacybeleid</flowPara></flowRoot>    <text
-       xml:space="preserve"
-       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
-       x="1009.8425"
-       y="556.29919"
-       id="text10321"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan10323"
-         x="1009.8425"
+   id="flowSpan10319">ToS;DR</flowSpan>): geanalyseerde en beoordeelde algemene voor-waarden en privacybeleid</flowPara></flowRoot>    <a
+       id="a14411"
+       xlink:href="https://tosdr.org">
+      <text
+         sodipodi:linespacing="125%"
+         id="text10321"
          y="556.29919"
-         style="text-align:end;text-anchor:end">https://tosdr.org</tspan></text>
+         x="1009.8425"
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
+         xml:space="preserve"><tspan
+           style="text-align:end;text-anchor:end"
+           y="556.29919"
+           x="1009.8425"
+           id="tspan10323"
+           sodipodi:role="line">https://tosdr.org</tspan></text>
+    </a>
     <path
        style="fill:none;stroke:#000000;stroke-width:3.54330683;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
        inkscape:transform-center-x="-2.5135195"
@@ -5608,18 +5647,22 @@
        id="path3871-6-3"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccc" />
-    <text
-       xml:space="preserve"
-       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
-       x="1009.8425"
-       y="600.59052"
-       id="text10385"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan10387"
-         x="1009.8425"
+    <a
+       id="a14415"
+       xlink:href="https://xkcd.com">
+      <text
+         sodipodi:linespacing="125%"
+         id="text10385"
          y="600.59052"
-         style="text-align:end;text-anchor:end">https://xkcd.com</tspan></text>
+         x="1009.8425"
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
+         xml:space="preserve"><tspan
+           style="text-align:end;text-anchor:end"
+           y="600.59052"
+           x="1009.8425"
+           id="tspan10387"
+           sodipodi:role="line">https://xkcd.com</tspan></text>
+    </a>
     <flowRoot
        xml:space="preserve"
        id="flowRoot10389"
@@ -5915,17 +5958,21 @@
          style="font-weight:normal;-inkscape-font-specification:Nimbus Sans L"><tspan
    style="font-weight:bold;-inkscape-font-specification:Nimbus Sans L Bold"
    id="tspan11052">ChatSecure</tspan>: OTR-versleutelde tekstberichten</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
-       x="1009.8425"
-       y="786.61414"
-       id="text11054"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan11056"
+    <a
+       id="a14419"
+       xlink:href="https://chatsecure.org">
+      <text
+         sodipodi:linespacing="125%"
+         id="text11054"
+         y="786.61414"
          x="1009.8425"
-         y="786.61414">https://chatsecure.org</tspan></text>
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
+         xml:space="preserve"><tspan
+           y="786.61414"
+           x="1009.8425"
+           id="tspan11056"
+           sodipodi:role="line">https://chatsecure.org</tspan></text>
+    </a>
     <path
        style="fill:none;stroke:#000000;stroke-width:3.54330683;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
        inkscape:transform-center-x="-2.5135195"
@@ -5965,5 +6012,70 @@
        transform="translate(0,308.26769)"><tspan
          sodipodi:role="line"
          id="tspan13316" /></text>
+    <a
+       id="a14332"
+       xlink:href="https://duckduckgo.com"
+       transform="translate(2.4029589e-6,2.9693806e-5)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text14328"
+         y="574.01569"
+         x="310.03937"
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans"
+         xml:space="preserve"><tspan
+           style="font-weight:bold;text-align:end;text-anchor:end;-inkscape-font-specification:Nimbus Sans L Bold"
+           y="574.01569"
+           x="310.03937"
+           id="tspan14330"
+           sodipodi:role="line">https://duckduckgo.com</tspan></text>
+    </a>
+    <a
+       id="a14352"
+       xlink:href="https://gnupg.org">
+      <text
+         sodipodi:linespacing="125%"
+         id="text14342"
+         y="476.57477"
+         x="664.37006"
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans"
+         xml:space="preserve"><tspan
+           style="font-weight:bold;text-align:end;text-anchor:end;-inkscape-font-specification:Nimbus Sans L Bold"
+           id="tspan14346"
+           y="476.57477"
+           x="664.37006"
+           sodipodi:role="line">https://gnupg.org</tspan></text>
+    </a>
+    <a
+       id="a14373"
+       xlink:href="https://otr.cypherpunks.ca">
+      <text
+         sodipodi:linespacing="125%"
+         id="text14361"
+         y="538.58264"
+         x="664.37006"
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans"
+         xml:space="preserve"><tspan
+           style="font-weight:bold;text-align:end;text-anchor:end;-inkscape-font-specification:Nimbus Sans L Bold"
+           id="tspan14365"
+           y="538.58264"
+           x="664.37006"
+           sodipodi:role="line">+ https://otr.cypherpunks.ca</tspan></text>
+    </a>
+    <a
+       id="a14399"
+       xlink:href="https://whispersystems.org">
+      <text
+         sodipodi:linespacing="125%"
+         id="text14391"
+         y="919.48816"
+         x="664.37006"
+         style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans"
+         xml:space="preserve"><tspan
+           style="font-weight:bold;text-align:end;text-anchor:end;-inkscape-font-specification:Nimbus Sans L Bold"
+           y="919.48816"
+           x="664.37006"
+           id="tspan14393"
+           sodipodi:role="line">https://whispersystems.org</tspan></text>
+    </a>
   </g>
 </svg>
