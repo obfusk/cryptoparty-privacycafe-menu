@@ -8,10 +8,34 @@
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.2"
    width="1052.3622"
    height="744.09448"
-   id="svg2">
+   id="svg2"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="cryptoparty-privacycafe-menu-cover-nl.web.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1676"
+     inkscape:window-height="1007"
+     id="namedview22092"
+     showgrid="false"
+     inkscape:zoom="1.064381"
+     inkscape:cx="526.18109"
+     inkscape:cy="372.04724"
+     inkscape:window-x="0"
+     inkscape:window-y="20"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
   <defs
      id="defs4">
     <radialGradient
@@ -1236,7 +1260,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1652,17 +1676,7 @@
          x="410.56729"
          y="458.48245"
          id="tspan162786" /></text>
-    <flowRoot
-       id="flowRoot162902"
-       xml:space="preserve"
-       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"><flowRegion
-         id="flowRegion162904"><rect
-           width="292.18863"
-           height="222.66464"
-           x="382.3819"
-           y="482.90979"
-           id="rect162906" /></flowRegion><flowPara
-         id="flowPara162908" /></flowRoot>    <g
+    <g
        transform="matrix(0.30541023,0,0,0.30541023,351.81794,630.99398)"
        id="layer6"
        style="display:inline">
@@ -2219,17 +2233,7 @@
          y="361.4173"
          id="tspan210249"
          style="font-size:22px;text-align:center;text-anchor:middle">Goed om te weten</tspan></text>
-    <flowRoot
-       id="flowRoot208874"
-       xml:space="preserve"
-       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"><flowRegion
-         id="flowRegion208876"><rect
-           width="48.854687"
-           height="175.68898"
-           x="36.641018"
-           y="69.523979"
-           id="rect208878" /></flowRegion><flowPara
-         id="flowPara208880" /></flowRoot>    <text
+    <text
        x="35.433071"
        y="387.9921"
        id="text15898"
@@ -2493,7 +2497,7 @@
            x="307.06003"
            y="609.63123"
            id="tspan16034"
-           style="font-weight:normal;-inkscape-font-specification:Nimbus Sans L"> </tspan></tspan><tspan
+           style="font-weight:normal;-inkscape-font-specification:Nimbus Sans L" /></tspan><tspan
          x="272.68503"
          y="0"
          id="tspan16036"><tspan
@@ -2850,17 +2854,7 @@
            y="875.19684"
            id="tspan12737">https://securityinabox.org</tspan></text>
     </a>
-    <flowRoot
-       id="flowRoot13542"
-       xml:space="preserve"
-       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans"><flowRegion
-         id="flowRegion13544"><rect
-           width="214.20901"
-           height="118.37867"
-           x="-183.20508"
-           y="340.10379"
-           id="rect13546" /></flowRegion><flowPara
-         id="flowPara13548" /></flowRoot>    <g
+    <g
        transform="matrix(0.24730993,0,0,0.24730993,429.95969,865.2312)"
        id="g11339">
       <path
