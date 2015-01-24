@@ -1692,34 +1692,38 @@
        transform="translate(0,308.26769)"><tspan
          sodipodi:role="line"
          id="tspan3734" /></text>
-    <text
-       xml:space="preserve"
-       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
-       x="832.67719"
-       y="1016.9291"
-       id="text3736"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3738"
-         x="832.67719"
+    <a
+       id="a14292"
+       xlink:href="https://cryptoparty.in">
+      <text
+         sodipodi:linespacing="125%"
+         id="text3736"
          y="1016.9291"
-         style="font-weight:normal;-inkscape-font-specification:Nimbus Sans L">https://cryptoparty.in</tspan><tspan
-         sodipodi:role="line"
          x="832.67719"
-         y="1041.9291"
-         id="tspan3740" /></text>
-    <text
-       xml:space="preserve"
-       style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
-       x="832.67719"
-       y="990.35431"
-       id="text3742"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan3744"
-         x="832.67719"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
+         xml:space="preserve"><tspan
+           id="tspan3740"
+           y="1016.9291"
+           x="832.67719"
+           sodipodi:role="line"
+           style="font-weight:normal;-inkscape-font-specification:Nimbus Sans L">https://cryptoparty.in</tspan></text>
+    </a>
+    <a
+       id="a14301"
+       xlink:href="https://privacycafe.nl">
+      <text
+         sodipodi:linespacing="125%"
+         id="text3742"
          y="990.35431"
-         style="font-weight:normal;-inkscape-font-specification:Nimbus Sans L">https://privacycafe.nl</tspan></text>
+         x="832.67719"
+         style="font-size:20px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
+         xml:space="preserve"><tspan
+           style="font-weight:normal;-inkscape-font-specification:Nimbus Sans L"
+           y="990.35431"
+           x="832.67719"
+           id="tspan3744"
+           sodipodi:role="line">https://privacycafe.nl</tspan></text>
+    </a>
     <text
        xml:space="preserve"
        style="font-size:64px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
@@ -2066,14 +2070,10 @@
          x="584.64569"
          style="font-size:11px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Nimbus Sans L;-inkscape-font-specification:Sans Bold"
          xml:space="preserve"><tspan
-           id="tspan162804"
+           id="tspan162808"
            y="768.89758"
            x="584.64569"
-           sodipodi:role="line">https://fsfe.org</tspan><tspan
-           id="tspan162808"
-           y="782.64758"
-           x="584.64569"
-           sodipodi:role="line" /></text>
+           sodipodi:role="line">https://fsfe.org</tspan></text>
     </a>
     <a
        id="a11914"
