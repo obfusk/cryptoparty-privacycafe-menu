@@ -5035,11 +5035,9 @@
          style="font-weight:normal;text-align:start;text-anchor:start;-inkscape-font-specification:Nimbus Sans L"
          id="flowPara10011" /><flowPara
          style="font-weight:normal;text-align:start;text-anchor:start;-inkscape-font-specification:Nimbus Sans L"
-         id="flowPara10172">Use <flowSpan
+         id="flowPara10273">Use <flowSpan
    style="font-weight:bold;text-align:start;text-anchor:start;-inkscape-font-specification:Nimbus Sans L Bold"
-   id="flowSpan10015">encrypted connections</flowSpan> for web (HTTPS) and email</flowPara><flowPara
-         style="font-weight:normal;text-align:start;text-anchor:start;-inkscape-font-specification:Nimbus Sans L"
-         id="flowPara10273"> (SSL/TLS/STARTTLS).</flowPara></flowRoot>    <flowRoot
+   id="flowSpan10015">encrypted connections</flowSpan> for web (HTTPS) and email (SSL/TLS/STARTTLS).</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot9435"
        style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Nimbus Sans L;font-style:normal;font-weight:bold;font-size:11px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Sans Bold;font-stretch:normal;font-variant:normal"><flowRegion
