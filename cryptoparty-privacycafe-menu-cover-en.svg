@@ -1342,7 +1342,7 @@
      id="layer1"
      transform="translate(0,-308.26769)">
     <rect
-       style="fill:#a5e597;fill-opacity:1;stroke:none;opacity:0.3"
+       style="fill:#c1edb7;fill-opacity:1;stroke:none;opacity:0.29999999999999999"
        id="rect162271-41"
        width="318.89767"
        height="451.77161"
@@ -1350,7 +1350,7 @@
        y="338.38583"
        ry="7.0866141" />
     <rect
-       style="fill:#a5e597;stroke:none;stroke-width:3.54330707000000000;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
+       style="fill:#c1edb7;stroke:none;stroke-width:3.54330707000000000;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;fill-opacity:1"
        id="rect162271"
        width="318.89767"
        height="451.77161"
