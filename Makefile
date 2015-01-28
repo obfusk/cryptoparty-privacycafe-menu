@@ -20,10 +20,7 @@ pdfs: cryptoparty-privacycafe-menu-combined-en.pdf \
 	  echo '</body></html>'; \
 	} > $@
 
-cryptoparty-privacycafe-menu-combined-en.pdf:
-	pdftk cryptoparty-privacycafe-menu-{cover,inside}-en.pdf \
-	  cat output $@
-
-cryptoparty-privacycafe-menu-combined-nl.pdf:
-	pdftk cryptoparty-privacycafe-menu-{cover,inside}-nl.pdf \
-	  cat output $@
+cryptoparty-privacycafe-menu-combined-%.pdf: \
+  cryptoparty-privacycafe-menu-cover-%.pdf \
+  cryptoparty-privacycafe-menu-inside-%.pdf
+	pdftk $^ cat output $@
